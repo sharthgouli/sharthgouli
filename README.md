@@ -54,8 +54,6 @@ Tools: Git, GitHub
 📫 Let’s Connect
 
 GitHub: https://github.com/sharthgouli
-## 👋 Hi, I'm Sharath Kumar
-MERN Full Stack Developer | React | Node.js | MongoDB
 
 ## 🚀 MERN Full Stack Development
 
